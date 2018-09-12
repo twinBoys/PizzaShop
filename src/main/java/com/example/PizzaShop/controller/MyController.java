@@ -7,7 +7,7 @@ public class MyController {
 
     @RequestMapping(value = "/pizzas")
     public String getPizzas() {
-        return "Pizzas are good!";
+        return "Pizzas are good! \nThis is my second pizza!";
     }
 
 }
