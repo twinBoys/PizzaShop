@@ -11,4 +11,4 @@ phases:
       - mvn package
 artifacts:
   files:
-    - target/pizza-shop-api-0.0.1-SNAPSHOT.jar
+    - target/PizzaShop-0.0.1-SNAPSHOT.jar
